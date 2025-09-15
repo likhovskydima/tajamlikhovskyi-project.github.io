@@ -2,7 +2,7 @@
   font-family: 'Open Sans', sans-serif;
 }
 
-/* header */
+/* хедер */
 .header {
   min-height: 670px;
   background: url(../img/bg.png) no-repeat center center;
@@ -11,6 +11,7 @@
   text-align: center;
 }
 
+ /* закріплено зверху */
 .fixed-top.scrolled {
   background-color: rgba(52, 43, 87, .8) !important;
   -webkit-transition: background-color .2s ease-in-out;
