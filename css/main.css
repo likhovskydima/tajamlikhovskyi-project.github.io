@@ -13,7 +13,7 @@
 
  /* закріплено зверху */
 .fixed-top.scrolled {
-  background-color: rgba(52, 43, 87, .8) !important;
+  background-color: rgba(52, 43, 87, 1) !important;
   -webkit-transition: background-color .2s ease-in-out;
   transition: background-color .2s ease-in-out;
   border-bottom: 1px solid rgba(0, 224, 208, .2);
